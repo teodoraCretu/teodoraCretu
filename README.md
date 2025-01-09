@@ -2,6 +2,18 @@
 
 <h2> 💻 Projects:</h2>
 
+These are some of my projects: 
+
+- [Coffee Shop Website](https://github.com/teodoraCretu/coffee-shop)
+- [Portfolio Website](https://github.com/teodoraCretu/react-portfolio)
+- [Hair Salon Website](https://github.com/teodoraCretu/react-hair-salon)
+- [To Do List](https://github.com/teodoraCretu/toDoList)
+- [Drum Kit](https://github.com/teodoraCretu/drum-kit)
+- [From Arabic To Roman Numbers](https://github.com/teodoraCretu/arabic-to-roman)
+- [Palindrome Checker](https://github.com/teodoraCretu/palindrome-checker)
+- [USA Telephone Number Validator](https://github.com/teodoraCretu/telephone-number-validator)
+- [Cash Register Simulation](https://github.com/teodoraCretu/cash-register)
+- [Pokemon Search App](https://github.com/teodoraCretu/pokemon-search-app)
 
 <h2>🎓 Education</h2>
 
